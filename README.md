@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Sarvesh Singh – Android Engineer specializing!
+# 👋 Hello, I’m Sarvesh Singh – Android Engineer!
 
 With over **3 years of experience**, I’ve built, maintained, and enhanced high-performance Android applications. From **Kotlin** and **JetPack Compose** to **Retrofit**, **KTor**, and **MVVM**, I have a deep understanding of modern Android development practices. 🚀 Currently, I’m focusing on developing scalable, cutting-edge mobile solutions.
 

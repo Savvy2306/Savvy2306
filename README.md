@@ -35,8 +35,8 @@ With over **3 years of experience**, I’ve built, maintained, and enhanced high
 ---
 
 ### 🏆 Professional Experience:
-- **Senior Engineer** at Motherson Technology Services | *Sep 2024 - Present*
-- **Software Engineer** at Motherson Technology Services | *Oct 2022 - Aug 2024*
+- **Senior Engineer** at Motherson Technology Services | *Apr 2024 - Present*
+- **Software Engineer** at Motherson Technology Services | *Oct 2022 - Mar 2024*
 - **Engineer Trainee** at  Technology Services | *Sep 2021 - Sep 2022*
 
 ---
